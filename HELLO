@@ -1,0 +1,6 @@
+Output:
+Source string = strcat()
+Target string =  Program in C 
+Target string after strcat( ) =  Program in C strcat() 
+*** stack smashing detected ***: terminated
+Aborted
